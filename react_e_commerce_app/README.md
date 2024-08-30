@@ -1,8 +1,12 @@
-# React + Vite
+# react_projectwork APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Designed and developed by Suraj Neupane
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Technology Used
+= React
+= Vite
+= Tailwind
+= Vercel
+
+Visit the app at {https://react-projectwork-y52b.vercel.app/} (https://react-projectwork-y52b.vercel.app/)
